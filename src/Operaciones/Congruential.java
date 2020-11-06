@@ -3,7 +3,6 @@ package Operaciones;
 import java.util.ArrayList;
 
 public class Congruential {
-
     private int x = 0;
     private int a = 0;
     private int c = 0;
