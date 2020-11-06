@@ -19,12 +19,12 @@ import javax.swing.JTextField;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.border.Border;
 
-import logic.Calculation;
-import logic.Congruential;
-import logic.Histogram;
-import logic.KolmogorovSmirnov;
-import logic.Operation;
-import logic.StreakTest;
+import Operaciones.Calculation;
+import Operaciones.Congruential;
+import Operaciones.Histogram;
+import Operaciones.KolmogorovSmirnov;
+import Operaciones.Operation;
+import Operaciones.StreakTest;
 
 public class MainWindows extends JFrame {
 
