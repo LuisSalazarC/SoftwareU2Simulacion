@@ -18,7 +18,6 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.border.Border;
-
 import Operaciones.Calculation;
 import Operaciones.Congruential;
 import Operaciones.Histogram;
